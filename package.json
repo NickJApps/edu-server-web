@@ -1,0 +1,16 @@
+{
+  "name": "edu-server-web",
+  "version": "0.1.0",
+  "description": "Education Server Project",
+  "keywords": [
+    "education",
+    "project"
+  ],
+  "license": "ISC",
+  "author": "NickJApps",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
